@@ -1,0 +1,16 @@
+{
+  "name": "Outgunned Dice",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Slot-machine dice for Outgunned. Matches stack into Basic, Critical, Extreme, Impossible or JACKPOT.",
+  "author": "Outgunned Dice",
+  "icon": "/icon.svg",
+  "action": {
+    "title": "Outgunned Dice",
+    "icon": "/icon.svg",
+    "popover": "/index.html",
+    "width": 340,
+    "height": 580
+  },
+  "background_url": "/background.html"
+}
