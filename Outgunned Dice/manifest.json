@@ -8,9 +8,9 @@
   "action": {
     "title": "Outgunned Dice",
     "icon": "/icon.svg",
-    "popover": "Outgunned Dice/index.html",
+    "popover": "/index.html",
     "width": 340,
     "height": 580
   },
-  "background_url": "Outgunned Dice/background.html"
+  "background_url": "/background.html"
 }
