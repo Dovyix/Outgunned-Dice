@@ -4,10 +4,10 @@
   "manifest_version": 1,
   "description": "Slot-machine dice for Outgunned. Matches stack into Basic, Critical, Extreme, Impossible or JACKPOT.",
   "author": "Outgunned Dice",
-  "icon": "Outguned Dice/icon.svg",
+  "icon": "/icon.svg",
   "action": {
     "title": "Outgunned Dice",
-    "icon": "Outguned Dice/icon.svg",
+    "icon": "/icon.svg",
     "popover": "Outgunned Dice/index.html",
     "width": 340,
     "height": 580
