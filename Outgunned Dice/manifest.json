@@ -7,10 +7,10 @@
   "icon": "/icon.svg",
   "action": {
     "title": "Outgunned Dice",
-    "icon": "/icon.svg",
-    "popover": "/index.html",
+    "icon": "Outguned Dice/icon.svg",
+    "popover": "Outgunned Dice/index.html",
     "width": 340,
     "height": 580
   },
-  "background_url": "/background.html"
+  "background_url": "Outgunned Dice/background.html"
 }
